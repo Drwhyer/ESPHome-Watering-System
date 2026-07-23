@@ -3,7 +3,7 @@ ESPHome-Watering-System is a multi zone garden watering system based on the esp3
 
 
 
-Parts:
+BOM:
 - esp-32 (1x)
 - 8 Channel relay board (1x)
 - 24v Orbit sprinkler valves (1x per zone)
