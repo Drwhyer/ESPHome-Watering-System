@@ -7,6 +7,7 @@ Parts:
 - esp-32
 - 8 Channel relay board
 - 24v Orbit sprinkler valves
+  https://www.lowes.com/pd/Orbit-0-75-in-Plastic-Electric-Inline-Irrigation-Valve/1000152381
 - 24v ac power supply
 - Control box
 - Weather proof cable grip 2x
