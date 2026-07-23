@@ -15,5 +15,3 @@ Parts:
 - 3/4 Pex brass 3/4 npt
 - Water filter
 - 3/4 npt male to 3/4 water hose female
-- 
-- 
